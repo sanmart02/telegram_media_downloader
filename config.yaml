@@ -1,6 +1,6 @@
-api_hash: your_api_hash
-api_id: your_api_id
-chat_id: telegram_chat_id
+api_hash: 7dd9974c713787410beae4a295cc1e2d
+api_id: 27885485
+chat_id: -1001887558253
 last_read_message_id: 0
 ids_to_retry: []
 media_types:
