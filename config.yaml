@@ -4,12 +4,7 @@ chat_id: -1001887558253
 last_read_message_id: 0
 ids_to_retry: []
 media_types:
-- audio
-- photo
 - video
-- document
-- voice
-- video_note
 file_formats:
   audio:
   - all
